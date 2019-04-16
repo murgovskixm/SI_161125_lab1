@@ -1,0 +1,5 @@
+commit 1ee75018a90af04e00cb86d3ed2cfc59b8b0e73b (HEAD -> logs, origin/master, master)
+Author: unknown <murgovskixm@gmail.com>
+Date:   Tue Apr 16 15:50:20 2019 +0200
+
+    Initial commit
